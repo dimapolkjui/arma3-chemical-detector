@@ -18,7 +18,7 @@ while {
 	_fancyScreenThing = ppEffectCreate["ChromAberration", 200];
 };
 _fancyScreenThing ppEffectEnable false;
-_fancyScreenThing ppEffectAdjust [0, 0, true];//[0.05, 0.05, true];
+_fancyScreenThing ppEffectAdjust [0, 0, true];
 _fancyScreenThing ppEffectCommit 1;
 
 
